@@ -92,5 +92,6 @@ class Calculator():
     def exit_pogram(self):
         self.root.destroy()
         self.root.quit()
-    
-Calculator()
+
+if __name__ == "__main__" :
+    Calculator()
