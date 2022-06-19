@@ -1,5 +1,5 @@
 # calculator
-A simple calculator with a GUI built with tkinter that does simple calculations.
+A simple calculator with a GUI built with tkinter that does simple calculations. (see preview gif)
 
 ## Features
 1. Evaluates mathematical expressions using python
